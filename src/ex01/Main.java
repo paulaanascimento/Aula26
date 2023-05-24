@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<Carro> listaCarros = new ArrayList<>();
-        listaCarros.add(new Renault("Duster", 2022, 112.990, "Prata", 4));
+        listaCarros.add(new Renault("Duster", 2022, 112990, "Prata", 4));
         listaCarros.add(new Fiat("Toro", 2023, 146990, "Vermelho", 4 ));
         listaCarros.add(new Hyundai("HB20", 2023, 80000, "Branco", 4));
 
